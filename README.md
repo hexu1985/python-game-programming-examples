@@ -28,3 +28,20 @@ Hello from the pygame community. https://www.pygame.org/contribute.html
 $
 ```
 
+---
+
+**venv方式**
+
+```
+$ python3 -m venv venv_game
+$ source venv_game/bin/activate
+$ pip install pygame
+$ python3
+Python 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import pygame
+pygame 2.6.0 (SDL 2.28.4, Python 3.12.3)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+>>>
+$
+```
